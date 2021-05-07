@@ -1,0 +1,27 @@
+Right of the bat I encounter a rough start where I get an error reading
+
+Syntax Error: Unknown Word
+
+Pointing at the r in "margin." When I checked in an IDE i was not faced with any Syntax Errors and when I double checked the code I copied from, nothing was different, so I was very confused. After angsting about it I decided to restart since I hadn't done anything anyway, so I deleted the folder. 
+
+Trying to create a new React project was difficult if only because there was an existing log called my-app, so I named this new app tic-tac-toe. 
+
+Now I can get to actually following the tutorial.
+
+I'm used to spacing out my code more, for instance 
+	return <Square value = {i}/>;
+instead of 
+	return <Square value={i}/>;
+and I'm wondering if that little of a style difference matters when it comes to different languages. 
+
+As of right now I am simply following the tutorial step by step.
+
+I am very glad that onClick is already built in as a function and not something we need to implement.
+
+I changed the alert message onClick from 'click' to 'You clicked me!' one to make sure that's what was being passed into the alert, and two because if my project is nice to me I'm more inclined to be motivated to continue.
+
+Changing from function() to arrow syntax is interesting, but nothing broke when I tried it after the tutorial noted. 
+
+I kind of want to get this part done so I can get to sleep then chorus-lapilli, so this will end here. The rest of the notes would have been me going "Hmmm, interesting! So that's how that works!" at just about every step.
+
+
